@@ -7,6 +7,9 @@ import android.widget.Button;
 
 import com.tencent.bugly.crashreport.CrashReport;
 
+/**
+ * 增加提交人信息
+ */
 public class MainActivity extends AppCompatActivity {
     Button button;
 
