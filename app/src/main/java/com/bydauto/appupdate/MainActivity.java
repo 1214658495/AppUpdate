@@ -35,4 +35,12 @@ public class MainActivity extends AppCompatActivity {
     public void feature2() {
         Log.i(TAG, "feature2: ");
     }
+
+    public void feature3() {
+        Log.i(TAG, "feature3: ");
+    }
+
+    public void feature4() {
+        Log.i(TAG, "feature4: ");
+    }
 }
