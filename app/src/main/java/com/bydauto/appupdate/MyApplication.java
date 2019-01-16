@@ -16,4 +16,8 @@ public class MyApplication extends Application {
     public void feat1() {
         Log.e(TAG, "feat1: add function feat1 on feat1");
     }
+
+    public void feat10() {
+        Log.e(TAG, "feat1: add function feat10 on feat1");
+    }
 }

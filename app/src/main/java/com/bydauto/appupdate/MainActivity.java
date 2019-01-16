@@ -40,11 +40,13 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "feature3: ");
     }
 
-    public void feature4() {
-        Log.i(TAG, "feature4: ");
+    public void feature6() {
+        Log.i(TAG, "feature6 add on feat1: ");
     }
 
+//        删除了feature4 on feat1
+
     public void feature5() {
-        Log.i(TAG, "feature5: ");
+        Log.i(TAG, "feature5: change on feat1 ");
     }
 }
